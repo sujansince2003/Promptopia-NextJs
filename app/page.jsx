@@ -11,8 +11,8 @@ function Home() {
           </span>
         </h1>
         <p className="desc text-center">
-          promptopia is an good website to get AI prompts.get hands on this also
-          share this app
+          {" "}
+          website to get AI prompts.get hands on this also share this app
         </p>
         {/* feed */}
         <Feed />
